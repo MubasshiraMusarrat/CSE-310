@@ -18,7 +18,7 @@ This is a C compiler that performs some lexical, syntax and semantic error check
 
 [*problem specification*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/blob/main/Syntax_%26_Semantics_Analysis/CSE310_July_2022_YACC_Assignment_Spec.pdf)
 
-[*solution*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/tree/main/Syntax_%26_Semantics_Analysis/offline)
-Works left : 1. Creating a log file
-             2. Passing starting & ending line no from the lex file
-             3. A few error checks
+[*solution*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/tree/main/Syntax_%26_Semantics_Analysis/offline) <br>
+Works left : 1. Creating a log file <br>
+             2. Passing starting & ending line no from the lex file <br>
+             3. A few error checks <br>
