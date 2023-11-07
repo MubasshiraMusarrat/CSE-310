@@ -13,3 +13,12 @@ This is a C compiler that performs some lexical, syntax and semantic error check
 [*problem specification*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/blob/main/Lexical_Analysis/CSE310_July2022_Offline2_LexicalAnalysis_Specifications%20(1).pdf)
 
 [*solution*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/tree/main/Lexical_Analysis/offline)
+
+**Syntax & Semantics Ananlysis**
+
+[*problem specification*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/blob/main/Syntax_%26_Semantics_Analysis/CSE310_July_2022_YACC_Assignment_Spec.pdf)
+
+[*solution*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/tree/main/Syntax_%26_Semantics_Analysis/offline)
+Works left : 1. Creating a log file
+             2. Passing starting & ending line no from the lex file
+             3. A few error checks
