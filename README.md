@@ -6,3 +6,10 @@ This is a C compiler that performs some lexical, syntax and semantic error check
 [*problem specification*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/blob/main/Symbol_Table/CSE310_Assignment1_Specification.pdf)
 
 [*solution*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/tree/main/Symbol_Table/offline)
+
+
+**Lexcial Ananlysis**
+
+[*problem specification*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/blob/main/Lexical_Analysis/CSE310_July2022_Offline2_LexicalAnalysis_Specifications%20(1).pdf)
+
+[*solution*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/tree/main/Lexical_Analysis/offline)
