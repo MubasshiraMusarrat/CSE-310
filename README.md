@@ -24,4 +24,9 @@ Works left :
  2. Passing starting & ending line no from the lex file <br>
  3. A few error checks <br>
 
+**Intermediate Code Generation**
+
+[*problem specification*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/blob/main/Intermediate_Code_Generation/CSE_310_July_2022_ICG_Spec.docx)
+
+[*solution*](https://github.com/MubasshiraMusarrat/CSE-310-Compiler_Sessional/tree/main/Intermediate_Code_Generation/offline)
  
